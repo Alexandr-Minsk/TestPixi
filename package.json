@@ -1,0 +1,18 @@
+{
+  "name": "mypixi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@types/soundjs": "^0.6.27",
+    "pixi.js": "^4.5.3"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
